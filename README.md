@@ -1,7 +1,7 @@
 # Hi, Welcome to My Profile 👋
 
 ## 📖 Tentang Saya
-Halo, saya Sinta Nur Hidayah, seorang mahasiswa aktif di UIN Maulana Malik Ibrahim Malang.  
+Halo, saya Sinta Nur Hidayah, seorang mahasiswa aktif di **UIN Maulana Malik Ibrahim Malang**.  
 Saat ini saya sedang belajar **Pemrograman Mobile**.
 
 ---
