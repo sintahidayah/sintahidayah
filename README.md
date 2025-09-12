@@ -18,9 +18,9 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 
 | No | Minggu Ke | Praktikum Ke         | Topik                                           | Laporan            | Repository  |
 |----|--------|---------|-------------------------------------------------|--------------------|-------------|
-| 1  | 1 | 1 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](https://drive.google.com/drive/folders/1gIwtNl6-dZODwL7fsewd3MV_tLi78huj?usp=sharing "Laporan 1")     | [Modul 1](https://github.com/sintahidayah/prak-Mobile-Modul-1 "Modul 1") |
-| 2  | 1 | 1 | Widget Row dan Column                          | [Laporan 2](https://drive.google.com/drive/folders/1zAFAhKgOkJN8A98vxUhUPP25BrPvhRq3?usp=sharing "Laporan 2")    | [Modul 2](https://github.com/sintahidayah/prak-Mobile-Modul-2 "Modul 2") |
-| 3  | 2 | 2 | Pengaturan Layout Row dan Column di Flutter    | laporan 3 | [Modul 3](#) |
-| 4  | 2 | 2 | Widget Flexible dan Expanded                   | [Laporan 4](#)     | [Modul 4](#) |
+| 1  | 1 | 1 | Pengenalan Mobile Programming dan Setup         | [Laporan 1](https://drive.google.com/file/d/1t4iSYLCN843Hhq5e47nTVavxf9nsm0r6/view?usp=sharing "Laporan 1")   | [Modul 1](https://github.com/sintahidayah/prak-Mobile-Modul-1 "Modul 1") |
+| 2  | 1 | 1 | Widget Row dan Column                          | [Laporan 2](https://drive.google.com/file/d/1Rf4WKC5ZWWvyxmobFYxHeNtHCwvEUqVS/view?usp=sharing "Laporan 2")   | [Modul 2](https://github.com/sintahidayah/prak-Mobile-Modul-2 "Modul 2") |
+| 3  | 2 | 2 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](https://drive.google.com/file/d/1ODEOOMiIKZNkHy2_gfgVNVZjfNV55nHJ/view?usp=sharing "Laporan 3") | [Modul 3](https://github.com/sintahidayah/prak-Mobile-Modul-3 "Modul 3") |
+| 4  | 2 | 2 | Widget Flexible dan Expanded                   | [Laporan 4](https://drive.google.com/file/d/1vF5XoWwI8r6gYzCJXF7H_Mfck9DbQ39t/view?usp=sharing "Laporan 4")     | [Modul 4](https://github.com/sintahidayah/prak-Mobile-Modul-4 "Modul 4") |
 
 ---
