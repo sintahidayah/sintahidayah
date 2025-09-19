@@ -22,5 +22,6 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 | 2  | 1 | 1 | Widget Row dan Column                          | [Laporan 2](https://drive.google.com/file/d/1Rf4WKC5ZWWvyxmobFYxHeNtHCwvEUqVS/view?usp=sharing "Laporan 2")   | [Modul 2](https://github.com/sintahidayah/prak-Mobile-Modul-2 "Modul 2") |
 | 3  | 2 | 2 | Pengaturan Layout Row dan Column di Flutter    | [Laporan 3](https://drive.google.com/file/d/1ODEOOMiIKZNkHy2_gfgVNVZjfNV55nHJ/view?usp=sharing "Laporan 3") | [Modul 3](https://github.com/sintahidayah/prak-Mobile-Modul-3 "Modul 3") |
 | 4  | 2 | 2 | Widget Flexible dan Expanded                   | [Laporan 4](https://drive.google.com/file/d/1vF5XoWwI8r6gYzCJXF7H_Mfck9DbQ39t/view?usp=sharing "Laporan 4")     | [Modul 4](https://github.com/sintahidayah/prak-Mobile-Modul-4 "Modul 4") |
-
+| 5 | 3 | 3 | Widget SizedBox, Spacer, dan Card | [Laporan 5](https://drive.google.com/file/d/1yH_q8ZYd2zAwRdtgBgRLBoohNsH3VFBF/view?usp=sharing "Laporan 5") |  [Modul 5](https://github.com/sintahidayah/prak-Mobile-Modul-5 "Modul 5")
+| 6 | 3 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Laporan 6](https://drive.google.com/file/d/1fRo10dutFfCRvIlWv_pZYrSlOJPepq9Q/view?usp=sharing "Laporan 6") | [Modul 6](https://github.com/sintahidayah/prak-Mobile-Modul-6 "Modul 6")
 ---
