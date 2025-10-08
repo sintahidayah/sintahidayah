@@ -27,4 +27,5 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 | 7 | 4 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Laporan 7](https://drive.google.com/file/d/1cF7-KoM0_AD1cxDcLBWRGvPFj6Hn2cIG/view?usp=sharing "Laporan 7") | [Modul 7](https://github.com/sintahidayah/prak-Mobile-Modul-7 "Modul 7") 
 | 8 | 4 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Laporan 8](https://drive.google.com/file/d/1f7TAhz_FsUhlzUsaarsEXsW-wEwhpFma/view?usp=sharing "Laporan 8") | [Modul 8](https://github.com/sintahidayah/prak-Mobile-Modul-8 "Modul 8") |
 | 9 | 5 | 5 | 	StatefulWidget | [Laporan 9](https://drive.google.com/file/d/1U9Ufe06A0tF0_OCBkP9wo_g7LYa4VYoy/view?usp=drive_link "Laporan 9") | [Modul 9](https://github.com/sintahidayah/prak-Mobile-Modul-9 "Modul 9") |
+| 10 | 6 | 6 | 	Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan 10](https://drive.google.com/file/d/1UfTxy8-HusJd4kkkO5hAwUrojly05CVV/view?usp=drive_link "Laporan 10") | [Modul 10](https://github.com/sintahidayah/prak-Mobile-Modul-10 "Modul 10") |
 ---
