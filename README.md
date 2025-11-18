@@ -30,4 +30,5 @@ Saat ini saya sedang belajar **Pemrograman Mobile**.
 | 10 | 06 | 	Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Laporan 10](https://drive.google.com/file/d/1UfTxy8-HusJd4kkkO5hAwUrojly05CVV/view?usp=drive_link "Laporan 10") | [Modul 10](https://github.com/sintahidayah/prak-Mobile-Modul-10 "Modul 10") |
 | 11 | 07 | 	Manajemen State dengan GetX | [Laporan 11](https://drive.google.com/file/d/1eqi13cv_fn517icjnNSejVatgPUZRJ1o/view?usp=drive_link "Laporan 11") | [Modul 11](https://github.com/sintahidayah/prak-Mobile-Modul-11 "Modul 11") |
 | 12 | 08 | 	Akses Lokasi dengan GPS di Flutter | [Laporan 12](https://drive.google.com/file/d/1XmITixSCXNFn_d3-HqrwWoQ4jMP5eBiq/view?usp=drive_link "Laporan 12") | [Modul 12](https://github.com/sintahidayah/prak-Mobile-Modul-12 "Modul 12") |
+| 13 | 09 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan 13](https://drive.google.com/file/d/1yAr1PsXob1ctADObkQQOzjrjgts-7Ngv/view?usp=drive_link "Laporan 13") | [Modul 13](https://github.com/sintahidayah/prak-Mobile-Modul-13 "Modul 13") |
 ---
